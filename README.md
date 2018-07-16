@@ -8,4 +8,4 @@
  
 ##### Rest Controllers:
   - User Rest Controller
-
+  - Friend Rest Controller

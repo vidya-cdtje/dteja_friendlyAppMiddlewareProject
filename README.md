@@ -8,4 +8,5 @@
  
 ##### Rest Controllers:
   - User Rest Controller
+  - Blog Rest controller
   - Friend Rest Controller

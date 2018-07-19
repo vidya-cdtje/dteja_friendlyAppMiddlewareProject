@@ -10,3 +10,4 @@
   - User Rest Controller
   - Blog Rest controller
   - Friend Rest Controller
+  - Profile Picture Rest Controller
